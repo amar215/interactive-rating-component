@@ -4,7 +4,7 @@
 ![Screenshot 2nd](images/Screenshot%20(38).png)
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://interactive-rating-componentak.netlify.app/)
 
 
 ### Built with
